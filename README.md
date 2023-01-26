@@ -42,7 +42,7 @@
  <hr> 
 
 <h3 align = "center"> 
-  <a href="https://www.linkedin.com/in/nannkat/" title="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align = "center"/>&nbsp;&nbsp; <a href="mailto:nannahann@gmail.com" title="Mail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" width="30"  align = "center"/>&nbsp;&nbsp;<a href="https://www.instagram.com/nannahann/" title="Insta"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png?20210403190622" width="30"  align = "center"/></h3>
+  <a href="https://www.linkedin.com/in/nannakatrin/" title="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align = "center"/>&nbsp;&nbsp; <a href="mailto:nannahann@gmail.com" title="Mail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" width="30"  align = "center"/>&nbsp;&nbsp;<a href="https://www.instagram.com/nannahann/" title="Insta"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png?20210403190622" width="30"  align = "center"/></h3>
     
    
 
