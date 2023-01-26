@@ -1,16 +1,17 @@
 ## Hi there, I'm Nanna (She/Her) 💃 💻
 
-👩‍💻 I’m currently working as a Software Engineer at <a href="https://www.verisk.com/" title="verisk"><img src="https://www.verisk.com/siteassets/logos/svg/verisk-logo1.svg" width="70" style="vertical-align:down"/>
+👩‍💻 Currently working as a Software Engineer at <a href="https://www.verisk.com/" title="verisk"><img src="https://www.verisk.com/siteassets/logos/svg/verisk-logo1.svg" width="70" style="vertical-align:down"/>
 
 🏡 I'm based in Boston, MA. Originally from Iceland 🥶
 
-👀 I’m interested in Data Analysis, App Development, Machine Learning, Statistics, Data Visualization
+👀 My interests include Data Analysis, App Development, Machine Learning, Statistics, Data Visualization
 
-🌱 My goal this year is to learn to make beautiful data dashboards with Plotly Dash 👩‍🎨
+🌱 My goal this year is to learn to make beautiful data dashboards with Plotly 👩‍🎨
 
 💬 Ask me about MUSIC 🎵 philosophy, literature, languages 📚🤓 travel, culture 🌍
   
 ### Languages and Technologies I know
+    
 <a href ="https://azure.microsoft.com/en-us/products/devops" title="Azure Devops"><img src="https://zeevector.com/wp-content/uploads/Microsoft-Azure-DevOps-logo.png" width="60"/>&nbsp;&nbsp;
 <a href="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>&nbsp;&nbsp;
 <a href="https://pytorch.org/" title="PyTorch"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/>&nbsp;&nbsp;
@@ -29,6 +30,21 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="c#"><img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" width="40" />&nbsp;&nbsp;
 <a href="https://www.trustedtechteam.com/collections/microsoft-sql-server-standard?utm_source=google&utm_medium=cpc&utm_campaign=Gsearch_SQLStd}&utm_term=microsoft%20sql%20server&cq_plac=&cq_net=g&cq_pos=&cq_med=&cq_plt=gp&gc_id=8657288349&h_ad_id=562519636697&gclid=CjwKCAiAoL6eBhA3EiwAXDom5ghDdE0EZgN-NRiSqLmECQaGWmjJxeQCgThSQTDUSw3CpFGX7xRx6xoCSx0QAvD_BwE" title="sql"><img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" width="50"/>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/" title=".net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1920px-Microsoft_.NET_logo.svg.png" width="40"/>
+  
+
+<hr> 
+<h3 align="center" style="font-weight: normal">
+   <i>"Every individual being expresses the whole universe in its own manner"</i>
+</h3> 
+ <p align="center">
+   - Gottfried Wilhelm Leibniz, <i>Discourse on Metaphysics</i>
+</p> 
+ <hr> 
+
+<h3 align = "center"> 
+  <a href="https://www.linkedin.com/in/nannkat/" title="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align = "center"/>&nbsp; <a href="mailto:nannahann@gmail.com" title="Mail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" width="30"  align = "center"/>&nbsp; <a href="https://www.instagram.com/nannahann/" title="Insta"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png?20210403190622" width="30"  align = "center"/></h3>
+    
+   
 
 
  
