@@ -6,8 +6,6 @@
 
 👀 My interests include Data Analysis, App Development, Machine Learning, Statistics, Data Visualization
 
-🌱 My goal this year is to learn to make beautiful data dashboards with Plotly 👩‍🎨
-
 💬 Ask me about MUSIC 🎵 philosophy, literature, languages 📚🤓 travel, culture 🌍
   
 ### Languages and Technologies I know
