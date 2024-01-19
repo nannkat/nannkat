@@ -23,10 +23,11 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="c#"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.trustedtechteam.com/collections/microsoft-sql-server-standard?utm_source=google&utm_medium=cpc&utm_campaign=Gsearch_SQLStd}&utm_term=microsoft%20sql%20server&cq_plac=&cq_net=g&cq_pos=&cq_med=&cq_plt=gp&gc_id=8657288349&h_ad_id=562519636697&gclid=CjwKCAiAoL6eBhA3EiwAXDom5ghDdE0EZgN-NRiSqLmECQaGWmjJxeQCgThSQTDUSw3CpFGX7xRx6xoCSx0QAvD_BwE" title="sql"><img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" width="50"/></a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/" title=".net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1920px-Microsoft_.NET_logo.svg.png" width="40"/></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="aws"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" title="aws"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>&nbsp;&nbsp;
 
 ### Languages and Technologies I'm learning
-<a href="https://www.docker.com/"><img src="https://github.com/nannkat/nannkat/blob/main/images/01-primary-blue-docker-logo.png" width="70"/></a>
+<a href="https://www.docker.com/"><img src="https://github.com/nannkat/nannkat/blob/main/images/01-primary-blue-docker-logo.png" width="80" align="top"/></a>&nbsp;&nbsp;
+<a href="https://python.langchain.com/docs/get_started/introduction"><img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" width ="120" align="top"/></a>
 <hr> 
 
 <h3 align="center" style="font-weight: normal">
