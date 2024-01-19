@@ -20,13 +20,13 @@
 <a href="https://html.com/" title="HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" width="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="50"/></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/html_css.asp" title="CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30"/></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="aws"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="c#"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.trustedtechteam.com/collections/microsoft-sql-server-standard?utm_source=google&utm_medium=cpc&utm_campaign=Gsearch_SQLStd}&utm_term=microsoft%20sql%20server&cq_plac=&cq_net=g&cq_pos=&cq_med=&cq_plt=gp&gc_id=8657288349&h_ad_id=562519636697&gclid=CjwKCAiAoL6eBhA3EiwAXDom5ghDdE0EZgN-NRiSqLmECQaGWmjJxeQCgThSQTDUSw3CpFGX7xRx6xoCSx0QAvD_BwE" title="sql"><img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" width="50"/></a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/" title=".net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1920px-Microsoft_.NET_logo.svg.png" width="40"/></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="aws"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>&nbsp;&nbsp;
 
 ### Languages and Technologies I'm learning
-<a href="https://www.docker.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&psig=AOvVaw2CAl_Cy_q86hRv0DX7IbU0&ust=1705718084040000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKixu5a16IMDFQAAAAAdAAAAABAU" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://github.com/nannkat/nannkat/blob/main/images/01-primary-blue-docker-logo.png" width="70"/></a>
 <hr> 
 
 <h3 align="center" style="font-weight: normal">
