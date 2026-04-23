@@ -1,16 +1,18 @@
 ## Hi there, I'm Nanna (She/Her) 💃 💻
 
-👩‍💻 Currently working as a Software Engineer at <a href="https://www.verisk.com/" title="verisk"><img src="https://www.verisk.com/siteassets/logos/svg/verisk-logo1.svg" width="70" style="vertical-align:down"/>
+👩‍💻 Software Engineer with experties in AI Engineering and Data analytics.
 
 🏡 I'm based in Houston, TX. Originally from Iceland 🥶
+
+🦾 Worked in AI Development & Integration at <a href="https://www.verisk.com/" title="verisk"><img src="https://www.verisk.com/siteassets/logos/svg/verisk-logo1.svg" width="70" style="vertical-align:down"/> 
+
+🧬 Built data pipeines and analytics workflows at <a href="https://www.decode.com/" title="deCODE"><img src="">
 
 👀 My interests include Machine Learning, Data Analysis, App Development, Statistics, Data Visualization
 
 💬 Ask me about MUSIC 🎵 philosophy, literature, languages 📚🤓 travel, culture 🌍
   
-### Languages and Technologies I know
-   
-
+<!--### Languages and Technologies I know
 <a href="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="https://pytorch.org/" title="PyTorch"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="https://cplusplus.com/" title="C++"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/></a>&nbsp;&nbsp;
@@ -24,7 +26,8 @@
 <a href="https://aws.amazon.com/" title="aws"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="https://github.com/nannkat/nannkat/blob/main/images/01-primary-blue-docker-logo.png" width="85"/></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="80"/></a>&nbsp;&nbsp;
-<a href ="https://azure.microsoft.com/en-us/products/devops" title="Azure Devops"><img src="https://logos-world.net/wp-content/uploads/2024/10/Azure-DevOps-Logo.jpg" width="75"/></a>&nbsp;&nbsp; 
+<a href ="https://azure.microsoft.com/en-us/products/devops" title="Azure Devops"><img src="https://logos-world.net/wp-content/uploads/2024/10/Azure-DevOps-Logo.jpg" width="75"/></a>&nbsp;&nbsp;
+-->
 <hr> 
 
 <h3 align="center" style="font-weight: normal">
@@ -35,7 +38,7 @@
 </p> 
 
 <h3 align = "center"> 
-  <a href="https://www.linkedin.com/in/nannakatrin/" title="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align = "center"/>&nbsp;&nbsp; <a href="mailto:nannahann@gmail.com" title="Mail"><img src="images/gmail_logo.png" width="30"  align = "center"/>&nbsp;&nbsp;<a href="https://www.instagram.com/nannahann/" title="Insta"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png?20210403190622" width="30"  align = "center"/></h3>
+  <a href="https://www.linkedin.com/in/nannakatrin/" title="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align = "center"/>&nbsp;&nbsp; <a href="mailto:nannahann@gmail.com" title="Mail"><img src="images/gmail_logo.png" width="30"  align = "center"/>&nbsp;&nbsp;<a href="https://www.instagram.com/nannahann/" title="Insta"><img src="images/instagram_logo.jpeg" width="30"  align = "center"/></h3>
     
    
 
