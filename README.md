@@ -1,6 +1,6 @@
 ## Hi there, I'm Nanna (She/Her) 💃 💻
 
-👩‍💻 Software Engineer with experties in AI Engineering and Data Analytics.
+👩‍💻 Software Engineer with expertise in AI Engineering and Data Analytics.
 
 🏡 I'm based in Houston, TX. Originally from Iceland 🥶
 
