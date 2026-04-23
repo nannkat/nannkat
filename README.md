@@ -1,12 +1,12 @@
 ## Hi there, I'm Nanna (She/Her) 💃 💻
 
-👩‍💻 Software Engineer with experties in AI Engineering and Data analytics.
+👩‍💻 Software Engineer with experties in AI Engineering and Data Analytics.
 
 🏡 I'm based in Houston, TX. Originally from Iceland 🥶
 
-🦾 Worked as a full stack engineer and in AI Development & Integration at <a href="https://www.verisk.com/" title="verisk"><img src="https://www.verisk.com/siteassets/logos/svg/verisk-logo1.svg" width="70" style="vertical-align:down"/> 
+🦾 Worked as a full stack engineer in AI Development & Integration at <a href="https://www.verisk.com/" title="verisk"><img src="https://www.verisk.com/siteassets/logos/svg/verisk-logo1.svg" width="70" style="vertical-align:down"/> 
 
-🧬 Built data pipeines and analytics workflows at <a href="https://www.decode.com/" title="deCODE"><img src="images/decode_logo.png">
+🧬 Built data pipeines and analytics workflows at deCODE genetics <a href="https://www.decode.com/" title="deCODE"><img src="images/decode_logo.png" width="25">
 
 👀 My interests include Machine Learning, Data Analysis, App Development, Statistics, Data Visualization
 
